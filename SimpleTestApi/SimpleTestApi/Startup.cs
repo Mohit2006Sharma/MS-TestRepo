@@ -14,6 +14,7 @@ namespace SimpleTestApi
 {
     public class Startup
     {
+        //this is startup file
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
